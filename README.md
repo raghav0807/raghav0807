@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 <h2 align="center">Hi there 👋, I'm Raghav Agiwal</h2>
 <h3 align="center">A passionate Web Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav0807&label=Profile%20views&color=0e75b6&style=flat" alt="raghav0807" /> </p>
 
 
@@ -34,8 +33,7 @@ Here are some ideas to get you started:
 <p align="center"><strong><font size="5">A passionate Web Developer</font></strong></p>
 
 
-<h1 align="center">Hi 👋, I'm Chitranshi Srivastava</h1>
-<h3 align="center">A passionate Software Developer</h3>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 [![](https://visitcount.itsvg.in/api?id=raghav0807&icon=0&color=0)](https://visitcount.itsvg.in)
 
