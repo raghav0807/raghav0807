@@ -18,14 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Coding
-
-
-
-## Banner
-
-[![MasterHead](https://media.licdn.com/dms/image/D5612AQGs3cA_9DYwuA/article-cover_image-shrink_720_1280/0/1677890171661?e=1727913600&v=beta&t=J9tq5sxrb1blAlGhmrIr0qfueD2b8TH2PMwNkppTRiY)](https://raghav0807)
-
 <h2 align="center">Hi there 👋, I'm Raghav Agiwal</h2>
 <h3 align="center">A passionate Web Developer</h3>
 
@@ -46,10 +38,16 @@ Here are some ideas to get you started:
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 [![](https://visitcount.itsvg.in/api?id=raghav0807&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chitranshi135&label=Profile%20views&color=0e75b6&style=flat" alt="chitranshi135" /> </p>
 -->
 
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=1727913600&v=beta&t=3W03fWrwgvTFzJ7rY43S3ekj0LdVfgNwn8dKjjX0U4c">
+
+
+
+<img align="right" alt="Coding" width="230" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=1727913600&v=beta&t=3W03fWrwgvTFzJ7rY43S3ekj0LdVfgNwn8dKjjX0U4c" />
+
+
 
 - 🔭 I’m working on **Web Development** & **Data Analysis** 
 - 🌱 Constantly learning and growing in the field of technology.
