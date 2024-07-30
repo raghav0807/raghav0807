@@ -92,12 +92,12 @@ Let's connect and create something amazing together!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raghav0807&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav0807&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
 <p align="center">
   <a href="https://github.com/raghav0807">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghav0807&custom_title=Raghav%20Agiwal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Raghav Agiwal's GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghav0807&theme=tokyo-night&area=true&hide_border=true" alt="Raghav Agiwal's GitHub Activity Graph" />
   </a>
 </p>
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=raghav0807&limit=5&theme=dark&combine_all_yearly_contributions=true)
