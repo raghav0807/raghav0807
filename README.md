@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 - 🌱 Constantly learning and growing in the field of technology.
 - 👯 Looking to collaborate on **Frontend** as well as **Backend projects**
 - 💬 Feel free to ask me about **Web Development**
+- ⚡ Fun fact: "All is predefined!!" :))  
 - 📫 How to reach me: [raghavagiwal20@gmail.com](mailto:raghavagiwal20@gmail.com)
 
 Let's connect and create something amazing together!
