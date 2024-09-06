@@ -76,6 +76,7 @@ Let's connect and create something amazing together!
 
 
 <!-- snake graph -->
+
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br />
@@ -91,8 +92,22 @@ Let's connect and create something amazing together!
 
 <h2 align="center">⚡ 📊Stats ⚡</h2>
 
+<!-- snake graph -->
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raghav0807&theme=swift&hide_border=false)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghav0807&show_icons=true&theme=swift)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=raghav0807&theme=onedark)
+
+
+
+<!-- snake graph 
+
 
 ![](https://github-readme-stats.vercel.app/api?username=raghav0807&theme=swift&hide_border=false&include_all_commits=true&count_private=false)<br/>
+-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raghav0807&theme=swift&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav0807&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
