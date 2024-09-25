@@ -1,12 +1,4 @@
 
-<!--## Hi there 👋, I'm Raghav Agiwal -->
-
-<!-- T -->
-
-<!--
-**raghav0807/raghav0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently a final year CSE student at IIITV
 - 🌱 I’m currently learning Data Analysis & Next.js
@@ -22,15 +14,6 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav0807&label=Profile%20views&color=0e75b6&style=flat" alt="raghav0807" /> </p>
-
-
- <!-- <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=raghav0807&icon=0&color=0&background=F4A460&text_color=0000FF" alt="Profile views"/>
-  </a>
-</p>
-
-<p align="center"><strong><font size="5">A passionate Web Developer</font></strong></p>
 
 
 
@@ -109,12 +92,6 @@ Let's connect and create something amazing together!
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=raghav0807&theme=onedark)
 
 
-
-<!-- snake graph 
-
-
-![](https://github-readme-stats.vercel.app/api?username=raghav0807&theme=swift&hide_border=false&include_all_commits=true&count_private=false)<br/>
--->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raghav0807&theme=swift&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav0807&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
