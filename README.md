@@ -1,4 +1,8 @@
-
+<!--## Hi there 👋, I'm Raghav Agiwal -->
+<!-- T -->
+<!--
+**raghav0807/raghav0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
 
 - 🔭 I’m currently a final year CSE student at IIITV
 - 🌱 I’m currently learning Data Analysis & Next.js
@@ -16,6 +20,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav0807&label=Profile%20views&color=0e75b6&style=flat" alt="raghav0807" /> </p>
 
 
+ <!-- <p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=raghav0807&icon=0&color=0&background=F4A460&text_color=0000FF" alt="Profile views"/>
+  </a>
+</p>
+<p align="center"><strong><font size="5">A passionate Web Developer</font></strong></p>
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
@@ -77,10 +87,7 @@ Let's connect and create something amazing together!
 <h2 align="center">⚡ 📊Stats ⚡</h2>
 
 <!-- snake graph 
-
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raghav0807&theme=swift&hide_border=false)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raghav0807)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raghav0807&theme=swift&hide_border=false)
 -->
@@ -92,6 +99,9 @@ Let's connect and create something amazing together!
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=raghav0807&theme=onedark)
 
 
+<!-- snake graph 
+![](https://github-readme-stats.vercel.app/api?username=raghav0807&theme=swift&hide_border=false&include_all_commits=true&count_private=false)<br/>
+-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raghav0807&theme=swift&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav0807&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -107,4 +117,3 @@ Let's connect and create something amazing together!
 ![](https://github-contributor-stats.vercel.app/api?username=raghav0807&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
