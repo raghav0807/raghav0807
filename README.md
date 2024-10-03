@@ -37,8 +37,11 @@ Here are some ideas to get you started:
 
 
 
+<!--
+<img align="right" alt="Coding" width="210" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=1727913600&v=beta&t=3W03fWrwgvTFzJ7rY43S3ekj0LdVfgNwn8dKjjX0U4c" /> -->
 
-<img align="right" alt="Coding" width="210" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=1727913600&v=beta&t=3W03fWrwgvTFzJ7rY43S3ekj0LdVfgNwn8dKjjX0U4c" />
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 
 
